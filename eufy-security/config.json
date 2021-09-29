@@ -6,9 +6,7 @@
   "url": "https://github.com/nkm8/hassio-addons/tree/master/eufy-security",
   "image": "nkm8/eufy-security-mqtt:pi4-latest",
   "arch": [
-    "amd64",
-    "aarch64",
-    "armhf"
+    "aarch64"
   ],
   "startup": "services",
   "init": false,
