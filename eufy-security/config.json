@@ -4,7 +4,6 @@
   "slug": "eufy-security",
   "description": "Eufy Security to MQTT Gateway intended for use with Home Assistant or other platforms that use the MQTT discovery mechanism.",
   "url": "https://github.com/nkm8/hassio-addons/tree/master/eufy-security",
-  "image": "nkm8/eufy-security-mqtt:pi4-latest",
   "arch": [
     "aarch64"
   ],
