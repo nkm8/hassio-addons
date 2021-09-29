@@ -316,4 +316,4 @@ You can in addition find the files via the "samba" addon within the "ssl" share.
 
 ## Support
 
-While there is no warranty or support, you are welcome to raise an [Issue](https://github.com/evilmarty/hassio-addons/issues).
+While there is no warranty or support, you are welcome to raise an [Issue](https://github.com/nkm8/hassio-addons/issues).

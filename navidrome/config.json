@@ -3,7 +3,7 @@
   "version": "latest",
   "slug": "navidrome",
   "description": "Navidrome is a self-hosted, open source music server and streamer. It gives you freedom to listen to your music collection from any browser or mobile device.",
-  "url": "https://github.com/evilmarty/hassio-addons/tree/master/navidrome",
+  "url": "https://github.com/nkm8/hassio-addons/tree/master/navidrome",
   "image": "deluan/navidrome",
   "arch": ["amd64", "aarch64", "armhf"],
   "startup": "application",

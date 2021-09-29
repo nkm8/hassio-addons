@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "slug": "couchpotato",
   "description": "Automatic Movie Downloading via NZBs & Torrents",
-  "url": "https://github.com/evilmarty/hassio-addons/tree/master/couchpotato",
+  "url": "https://github.com/nkm8/hassio-addons/tree/master/couchpotato",
   "arch": ["amd64", "aarch64", "armhf"],
   "startup": "application",
   "init": false,

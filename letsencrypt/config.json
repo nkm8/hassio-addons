@@ -3,7 +3,7 @@
   "version": "3.5.0",
   "slug": "letsencrypt",
   "description": "Manage certificate from Let's Encrypt",
-  "url": "https://github.com/evilmarty/hassio-addons/tree/master/letsencrypt",
+  "url": "https://github.com/nkm8/hassio-addons/tree/master/letsencrypt",
   "arch": ["armv7", "amd64", "i386"],
   "startup": "once",
   "init": false,

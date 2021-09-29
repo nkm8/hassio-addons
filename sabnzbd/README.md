@@ -26,4 +26,4 @@ Via the application's settings page.
 
 ## Support
 
-While there is no warranty or support, you are welcome to raise an [Issue](https://github.com/evilmarty/hassio-addons/issues).
+While there is no warranty or support, you are welcome to raise an [Issue](https://github.com/nkm8/hassio-addons/issues).

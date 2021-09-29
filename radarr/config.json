@@ -3,8 +3,8 @@
   "version": "3.2.2.5080-ls117",
   "slug": "radarr",
   "description": "A fork of Sonarr to work with movies à la Couchpotato.",
-  "url": "https://github.com/evilmarty/hassio-addons/tree/master/radarr",
-  "image": "ghcr.io/evilmarty/hassio-radarr",
+  "url": "https://github.com/nkm8/hassio-addons/tree/master/radarr",
+  "image": "ghcr.io/nkm8/hassio-radarr",
   "arch": [
     "amd64",
     "aarch64",

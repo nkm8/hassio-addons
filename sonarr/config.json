@@ -3,8 +3,8 @@
   "version": "3.0.6.1265-ls121",
   "slug": "sonarr",
   "description": "Sonarr is a PVR for usenet and bittorrent users.",
-  "url": "https://github.com/evilmarty/hassio-addons/tree/master/sonarr",
-  "image": "ghcr.io/evilmarty/hassio-sonarr",
+  "url": "https://github.com/nkm8/hassio-addons/tree/master/sonarr",
+  "image": "ghcr.io/nkm8/hassio-sonarr",
   "arch": [
     "amd64",
     "aarch64",

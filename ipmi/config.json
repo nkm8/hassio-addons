@@ -3,7 +3,7 @@
   "version": "1.8.18",
   "slug": "ipmi",
   "description": "Expose IPMI sensor to Home Assistant",
-  "url": "https://github.com/evilmarty/hassio-addons/tree/master/ipmi",
+  "url": "https://github.com/nkm8/hassio-addons/tree/master/ipmi",
   "arch": ["amd64"],
   "startup": "services",
   "init": false,
